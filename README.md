@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=rjoc&style=flat-square))
 ## Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
